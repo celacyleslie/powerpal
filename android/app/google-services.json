@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "833819821331",
+    "project_id": "powerpal-8a53c",
+    "storage_bucket": "powerpal-8a53c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833819821331:android:10d7cfcba435b94ef386e6",
+        "android_client_info": {
+          "package_name": "com.example.powerpal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833819821331-okgh8vv6avpejlrciu8jkh0da470m6ed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWIxP-9njOGE1AIjRjVrkkE-62dG4sKPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833819821331-okgh8vv6avpejlrciu8jkh0da470m6ed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
